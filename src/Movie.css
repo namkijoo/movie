@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.up h1{
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+.up{
+    background-color: purple;
+}
+
+.wrapper{
+    height: 100vh;
+}
+
+.down{
+    display: flex;
+}
+
+
+.inside{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.inside h1{
+    margin-bottom: 20px;
+    color: khaki;
+}
+
+h1 span{
+    color: black;
+    font-size: 20px;
+}
+
+.inside h4{
+    margin-bottom: 20px;
+}
+
+
+
